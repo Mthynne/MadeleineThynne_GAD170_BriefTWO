@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2d1809045298a734ebc2486c0c57c679
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fighterPrefab: {fileID: 3597364746197656194, guid: dab9e3d4610271843909cad34fa328eb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
